@@ -24,3 +24,6 @@ Take a look at the visuals I created to bring these insights to life! 📈 The s
 Let’s connect if you’re interested in data-driven insights for business growth or have feedback on this analysis! #DataAnalysis #Excel #BusinessInsights #SalesAnalysis
 
 <a href="https://github.com/muhileswaran/Data-analysis-dashboard/blob/main/Screenshot%20(9).png">View Dashboard</a>
+
+![Screenshot (9)](https://github.com/user-attachments/assets/002ceefd-ab6f-4e52-983a-508d2aa70651)
+
