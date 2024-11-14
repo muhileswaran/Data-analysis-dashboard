@@ -22,3 +22,5 @@ Regional Sales Trends: North America had the highest bike purchases (508), surpa
 Take a look at the visuals I created to bring these insights to life! 📈 The slicers I used make it easy to filter data by category and explore different dimensions of the dataset.
 
 Let’s connect if you’re interested in data-driven insights for business growth or have feedback on this analysis! #DataAnalysis #Excel #BusinessInsights #SalesAnalysis
+
+<a href="https://github.com/muhileswaran/Data-analysis-dashboard/blob/main/Screenshot%20(9).png">View Dashboard</a>
